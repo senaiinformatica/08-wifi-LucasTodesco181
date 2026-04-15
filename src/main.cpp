@@ -1,3 +1,13 @@
+/*
+Autor: Lucas Todesco
+Programa: Conexão WiFi
+Descrição: Funcionamento de um programa que conecta o Wifi
+Data: 15/04/2026
+Versão: 1.0
+*/
+
+
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
